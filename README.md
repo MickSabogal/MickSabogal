@@ -16,6 +16,7 @@ Passionate about building modern web applications, solving real-world problems, 
 - 📈 5+ years of experience in customer support, healthcare assistance, and workflow optimization
 - 🧠 Strong background in problem-solving, QA testing, communication, and teamwork
 - 🎯 Looking to grow in the tech industry and contribute to impactful products
+- 🗣️ Trilingual: Spanish 🇪🇸 • English 🇬🇧 • Portuguese 🇵🇹
 
 ---
 
