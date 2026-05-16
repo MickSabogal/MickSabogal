@@ -77,22 +77,6 @@ https://github.com/MickSabogal/obsidian-programacion
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MickSabogal&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MickSabogal&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickSabogal&layout=compact&theme=tokyonight" alt="languages" />
-</p>
-
----
-
 ## 🌎 Connect With Me
 
 <p align="left">
